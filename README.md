@@ -20,7 +20,7 @@ Issues I know of
 * Payment hasn't been tested (merchant account hasn't been set up)
 * Email design todo its not great
 * link to albumsha.re/[shortcode] not set up. will be.
-* Logging in as page but then cancelling logs you in anyway.
+* ~~Logging in as page but then cancelling logs you in anyway.~~
 * Encryption
 * Facebook link direct to app hasn't been checked
 * Cron jobs
