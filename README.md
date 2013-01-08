@@ -3,7 +3,7 @@ Albumshare-Issues
 
 A repo solely for issues and bugs on Albumshare.
 
-Beta testers, if you find any issues, add it as an issue on this repo.
+Beta testers, if you find any issues, add it as an issue on this repo. (look up and in the middle of the navigation bar)
 
 Issues I know of
 ===============
