@@ -13,7 +13,7 @@ Issues I know of
 * Search doesn't really give suggestions as you time
 * Search results don't actually function
 * Notifications haven't been properly tested so they'll look terrible
-* Dropdown bar doesn't close on click
+* ~~Dropdown bar doesn't close on click~~
 * Inconsistant styling of input fields (suggestions welcome)
 * The wording of stuff on the app is terrible
 * Pages aren't being stopped if they haven't paid
