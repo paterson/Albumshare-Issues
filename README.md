@@ -23,4 +23,5 @@ Issues I know of
 * Logging in as page but then cancelling logs you in anyway.
 * Encryption
 * Facebook link direct to app hasn't been checked
+* Cron jobs
 
