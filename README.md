@@ -29,4 +29,4 @@ Issues I know of
 * ~~url encoding not encoding exclamation marks~~
 * ~~button design~~
 * clear #added when #friends and #fbalbums are loaded
-
+* Check if user is already is in album when added them
