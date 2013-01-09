@@ -12,7 +12,7 @@ Issues I know of
 * When adding a facebook album to an albumshare album, the name of the albums isn't anywhere. 
 * ~~Search doesn't really give suggestions as you time~~
 * ~~Search results don't actually function~~
-*~~ Notifications haven't been properly tested so they'll look terrible~~
+* ~~Notifications haven't been properly tested so they'll look terrible~~
 * ~~Dropdown bar doesn't close on click~~
 * Inconsistant styling of input fields (suggestions welcome)
 * The wording of stuff on the app is terrible
