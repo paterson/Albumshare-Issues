@@ -25,7 +25,7 @@ Issues I know of
 * Facebook link direct to app hasn't been checked
 * Cron jobs
 * Checkbox for deleting account doesn't work
-* submit buttons don't work in many places
+* ~~submit buttons don't work in many places~~
 * ~~url encoding not encoding exclamation marks~~
 * button design
 
