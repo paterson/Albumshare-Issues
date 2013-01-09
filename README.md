@@ -26,6 +26,6 @@ Issues I know of
 * Cron jobs
 * Checkbox for deleting account doesn't work
 * submit buttons don't work in many places
-* url encoding not encoding exclamation marks
+* ~~url encoding not encoding exclamation marks~~
 * button design
 
