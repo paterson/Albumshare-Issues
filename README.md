@@ -27,5 +27,5 @@ Issues I know of
 * Checkbox for deleting account doesn't work
 * ~~submit buttons don't work in many places~~
 * ~~url encoding not encoding exclamation marks~~
-* button design
+* ~~button design~~
 
