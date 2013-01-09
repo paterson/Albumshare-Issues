@@ -28,4 +28,5 @@ Issues I know of
 * ~~submit buttons don't work in many places~~
 * ~~url encoding not encoding exclamation marks~~
 * ~~button design~~
+* clear #added when #friends and #fbalbums are loaded
 
