@@ -24,4 +24,6 @@ Issues I know of
 * Encryption
 * Facebook link direct to app hasn't been checked
 * Cron jobs
+* Checkbox for deleting account doesn't work
+* submit buttons don't work in many places
 
