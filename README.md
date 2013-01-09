@@ -31,3 +31,4 @@ Issues I know of
 * clear #added when #friends and #fbalbums are loaded
 * Check if user is already is in album when added them
 * redirect to index.html if user cancels facebook login
+* sidebar doesn't work if no albums
