@@ -32,4 +32,4 @@ Issues I know of
 * Check if user is already is in album when added them
 * redirect to index.html if user cancels facebook login
 * ~~sidebar doesn't work if no album~~
-* ~~delete albums/photos from facebook!~~
+* delete albums/photos from facebook!
