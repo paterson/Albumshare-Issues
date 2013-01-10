@@ -33,3 +33,4 @@ Issues I know of
 * ~~redirect to index.html if user cancels facebook login~~
 * ~~sidebar doesn't work if no album~~
 * delete albums/photos from facebook!
+* checkbox styling, functionality
