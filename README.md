@@ -21,7 +21,8 @@ Issues I know of
 * Email design todo its not great
 * link to albumsha.re/[shortcode] not set up. will be.
 * ~~Logging in as page but then cancelling logs you in anyway.~~
-* Encryption
+* ~~Encryption~~
+* SSL
 * Facebook link direct to app hasn't been checked
 * Cron jobs
 * Checkbox for deleting account doesn't work
@@ -29,8 +30,11 @@ Issues I know of
 * ~~url encoding not encoding exclamation marks~~
 * ~~button design~~
 * clear #added when #friends and #fbalbums are loaded
-* Check if user is already is in album when added them
+* ~~Check if user is already is in album when added them~~
 * ~~redirect to index.html if user cancels facebook login~~
 * ~~sidebar doesn't work if no album~~
-* delete albums/photos from facebook!
-* checkbox styling, functionality
+* ~~delete albums/photos from facebook!~~
+* ~~checkbox styling, functionality~~
+* Remove albums process
+* photos not being added when notification accepted.
+* front page photoswipe not functioning
