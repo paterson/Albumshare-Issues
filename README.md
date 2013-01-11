@@ -36,5 +36,5 @@ Issues I know of
 * ~~delete albums/photos from facebook!~~
 * ~~checkbox styling, functionality~~
 * Remove albums process
-* photos not being added when notification accepted.
-* front page photoswipe not functioning
+* ~~photos not being added when notification accepted.~~
+* some front page photoswipe not functioning
