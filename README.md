@@ -37,4 +37,4 @@ Issues I know of
 * ~~checkbox styling, functionality~~
 * ~~Remove albums process~~
 * ~~photos not being added when notification accepted.~~
-* some front page photoswipe not functioning
+* ~~some front page photoswipe not functioning~~
