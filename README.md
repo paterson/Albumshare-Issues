@@ -16,7 +16,7 @@ Issues I know of
 * ~~Dropdown bar doesn't close on click~~
 * Inconsistant styling of input fields (suggestions welcome)
 * The wording of stuff on the app is terrible
-* Pages aren't being stopped if they haven't paid
+* ~~Pages aren't being stopped if they haven't paid~~
 * Payment hasn't been tested (merchant account hasn't been set up)
 * Email design todo its not great
 * link to albumsha.re/[shortcode] not set up. will be.
