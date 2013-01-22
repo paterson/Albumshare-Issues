@@ -38,3 +38,10 @@ Issues I know of
 * ~~Remove albums process~~
 * ~~photos not being added when notification accepted.~~
 * ~~some front page photoswipe not functioning~~
+* 
+* 
+* Clicking on some things invoke something completely different. eg adding an album to a new album bringings up settings. I know whats causing this.
+* Lack of loading dialogs. eg when app loads. 
+* none of settings actually work I think
+* no auto refresh when you accept a notification invite. Just not sure what to do here.
+*
