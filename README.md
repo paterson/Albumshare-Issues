@@ -5,6 +5,13 @@ A repo solely for issues and bugs on Albumshare.
 
 Beta testers, if you find any issues, add it as an issue on this repo. (look up and in the middle of the navigation bar)
 
+From a user's perspective this is version 0.0000001. Code wise its 98% done but from a users point its a half baked app. A fair bit of cleaning up/polishing/debugging has to be done. 
+
+The app will just do some weird things the odd time. ending the app and opening it up again will do the trick.
+
+You'll see the app has two different names in many places. We've a naming issue, suggestions are welcome.
+
+
 Issues I know of
 ===============
 
@@ -38,8 +45,6 @@ Issues I know of
 * ~~Remove albums process~~
 * ~~photos not being added when notification accepted.~~
 * ~~some front page photoswipe not functioning~~
-* 
-* 
 * Clicking on some things invoke something completely different. eg adding an album to a new album bringings up settings. I know whats causing this.
 * Lack of loading dialogs. eg when app loads. 
 * none of settings actually work I think
